@@ -1,6 +1,6 @@
 {
   "name": "@tryghost/algolia-fragmenter",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "repository": "https://github.com/TryGhost/algolia/tree/master/packages/algolia-fragmenter",
   "author": "Ghost Foundation",
   "license": "MIT",
@@ -19,9 +19,9 @@
     "access": "public"
   },
   "devDependencies": {
-    "mocha": "9.1.1",
+    "mocha": "10.0.0",
     "should": "13.2.3",
-    "sinon": "11.1.2"
+    "sinon": "14.0.0"
   },
   "dependencies": {
     "algolia-html-extractor": "0.0.1"
